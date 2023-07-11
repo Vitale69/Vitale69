@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vitale69
-- 👀 I’m interested in ...data science
+- 👀 I’m interested in ...blockchain development 
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...any project 🚀
 - 📫 How to reach me ...
